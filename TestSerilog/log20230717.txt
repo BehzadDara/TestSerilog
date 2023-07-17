@@ -1,0 +1,5 @@
+2023-07-17 20:16:48.049 +03:30 [DBG] This is a debug message
+2023-07-17 20:16:48.082 +03:30 [INF] This is an information message
+2023-07-17 20:16:48.084 +03:30 [WRN] This is a warning message
+2023-07-17 20:16:48.087 +03:30 [ERR] This is an error message
+2023-07-17 20:16:48.093 +03:30 [FTL] This is a fatal message

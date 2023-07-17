@@ -1,0 +1,2 @@
+2023-07-17 20:16:48.087 +03:30 [ERR] This is an error message
+2023-07-17 20:16:48.093 +03:30 [FTL] This is a fatal message
